@@ -29,6 +29,8 @@ const images = [
     caption: "[22/12/2024 🪧 GKM, Filkom] Ternyata stafli sosweet juga 😟💖. Keren bgt yak mereka terharuu. Disini bener2 dah lepass sama Lentera Asa yakk hehew" },
   { src: "https://cdn.builder.io/api/v1/image/assets%2Ff7d3d09ed64c4631ab5fc714d31c336b%2F1862a960d3f74328b72c4f42bcb000a1", 
     caption: "[30/11/2024 🪧 Bedengan] Kamu pertama kali ke bedengan kann awkkw, yey farewell. menutup per prokeran uakii. meskipun hujan tpi tak apa, aku senanggg" },
+  { src: "https://cdn.builder.io/api/v1/image/assets%2Ff7d3d09ed64c4631ab5fc714d31c336b%2Fd23c03e7f08947649a45c3c90749c1c6", 
+  caption: "[23/09/2023 Al Hadiid] Pertama kali notice kehadiran musfiq di dunia ini" },
                  
 
     
